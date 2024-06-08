@@ -1,0 +1,1 @@
+This repository contains the IPYNB file for the Customer Churn Prediction project. This project attempts to predict customer attrition rates using machine learning models such as logistic regression, decision tree, random forest classifier, AdaBoost classifier, and gradient boosting classifier. The gradient boosting classifier performed well, achieving an accuracy of almost 86%.
